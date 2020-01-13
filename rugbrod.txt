@@ -2,4 +2,5 @@ rug
 vand
 gær
 solsikkekerner
-
+salt
+sukker
